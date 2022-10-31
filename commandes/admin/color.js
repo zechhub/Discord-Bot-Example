@@ -22,6 +22,7 @@ fs.writeFile(`./serveur/${message.guild.id}.json`, JSON.stringify(db), (x) => {
 };
 
 
+
 module.exports.help = {
     name: "color",
     aliases: ['colorembed','theme'],
