@@ -1,8 +1,7 @@
-# Discord Bot Example
 
 <h1 align="center">
-  Discord Bot Example by Caping Team 🔰
-  DISCORD.GG/CapingTeam
+  Discord Bot Example by Caping Team 🔰\n
+  DISCORD.GG/CAPINGTEAM
 </h1>
 
 
