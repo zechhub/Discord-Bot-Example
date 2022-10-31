@@ -5,7 +5,7 @@
 <h1 align="center">
   DISCORD.GG/CAPINGTEAM
 </h1>
-
+*old script don't judge*
 
 **NOTE:** \
 Discord - Bot was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
