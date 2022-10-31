@@ -1,0 +1,14 @@
+{
+    "lien":  "invite link",
+    "login": { 
+        "token": "token here"
+    },
+    "bot": { 
+        "owner": "user id here",
+         "version": "(v1.5)"
+    },
+    "github": "https://github.com/KSCHdsc",
+    "Owners": "KSCH"
+}
+
+
