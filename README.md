@@ -74,7 +74,3 @@ npm install
 - [x] Reselling is forbidden
 - [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
 - [x] We are NOT responsible of anything you do with our software (if its illegal)
-
-
-<a href=#top>Back to Top</a></p>
-![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/mona-loading-dark.gif)
